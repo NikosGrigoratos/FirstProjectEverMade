@@ -1,3 +1,3 @@
-# FirstProjectEverMade
-A random college project in java
-UNFINISHED
+#Java 1 Project
+
+Εργάσια java 1, ΠΟΛΥ ΜΕΤΡΙΑ.
